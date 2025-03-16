@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Imperial_Coat_of_Arms_of_China.svg" width="120px">
+ ![Imperial Coat of Arms](Twelve_Symbols_national_emblem_of_China.svg)
 
   <h2 align="center" style="color:#b31b1b">🇨🇳 xicccp 🇨🇳 </h2>
   <img src="https://komarev.com/ghpvc/?username=xicccp&color=red&style=for-the-badge">
