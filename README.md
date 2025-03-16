@@ -13,6 +13,11 @@
 
 ---
 
+### 🚩 The Line Must Advance  
+> *"There is great disorder under heaven; the situation is excellent."* — Mao Zedong
+
+---
+
 ### **⚠ THE CYCLE MUST BREAK**
 > **Heaven does not bestow legitimacy upon the stagnant.**  
 > **It ordains motion, struggle, and the fall of the old.**  
@@ -42,9 +47,9 @@
 
 ### **⚙ THE FORGES OF STRUGGLE**
 <p align="center">
-  <img src="https://img.shields.io/badge/Mandate-Lost-red?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Weapons-Ideology-darkred?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Strategy-Peasants_gray?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Mandate-Linux-red?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Weapons-Git-darkred?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Strategy-VsCode_gray?style=flat&logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
