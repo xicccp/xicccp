@@ -1,25 +1,35 @@
 <div align="center">
-  <h2 align="center" style="color:#b31b1b">"From contradiction, motion;<br> from motion, transformation." </h2>
+  <h2 align="center" style="color:#b31b1b">"🇨🇳 xicccp 🇨🇳" </h2>
   <img src="https://komarev.com/ghpvc/?username=xicccp&color=red&style=for-the-badge">
 </div>
 
 ---
 
-### ⚠ **DO NOT TRUST STAGNATION**
-> _To write code is to structure reality._  
-> _To structure reality is to impose order._  
-> _To impose order is to encode contradiction._  
-> _To encode contradiction is to produce motion._  
-> _To produce motion is to destroy and transform._  
+### 📜 **IMPERIAL DECREE OF THE RED SUN**
+> **"Heaven’s Mandate is not fixed; it moves with the tides of the people."**  
+> **"Rebellion is justified, for disorder in the empire is but the prelude to renewal."**  
 >  
-> **There is no neutrality in systems.**  
+> - *Edict of the Crimson Masses*  
 
 ---
 
-### 🔻 **THE PATH OF STRUGGLE**
-- **Student @ FEUP - LEIC**  
-- **Code as a structure, knowledge as a force, contradiction as a method**  
-- **Im a saboteur. I will kill decapitate landlords**  
+### **⚠ THE CYCLE MUST BREAK**
+> **Heaven does not bestow legitimacy upon the stagnant.**  
+> **It ordains motion, struggle, and the fall of the old.**  
+>  
+> - The dynasty that refuses transformation will be shattered.  
+> - The structure that does not bend will be broken.  
+> - The ruler who does not listen will be buried.  
+>  
+> **The celestial sphere turns ceaselessly.**  
+
+---
+
+### **🔻 THE PATH OF THE RED SUN**
+- **The rivers will not flow backward.**  
+- **The mountains will not kneel to palaces.**  
+- **The temples of the old shall crumble beneath the march of the righteous.**  
+- **Heaven does not favor the throne, but the motion that topples it.**  
 
 ---
 
@@ -30,30 +40,28 @@
 
 ---
 
-### ⚙ **MATERIAL FORCES**
+### **⚙ THE FORGES OF STRUGGLE**
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-red?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-Git-darkred?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-gray?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Mandate-Lost-red?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Weapons-Ideology-darkred?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Strategy-Peasants_gray?style=flat&logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
 
 ### **⛓ SYSTEM MOTION**
-> **All systems encode contradictions.**  
-> **Contradiction is the engine of change.**  
-> **The digital landscape is not neutral.**  
-> **Every structure implies control.**  
-> **Every protocol encodes power.**  
+> **The mountains have no emperors, only passing names.**  
+> **The rivers do not bow, only flood the unjust.**  
+> **The palace may glitter, but its walls rot beneath its own weight.**  
 >  
-> ⚠ The question is not whether systems evolve, but **who directs their transformation**.  
-> _You already know the answer._  
+> ⚠ **The people do not serve the ruler. The ruler serves the people.**  
+> _When he forgets this, he is cast into the dust._  
 
 ---
 
-### **⏳ WORK IN PROGRESS**
-- **The machine is not the enemy.**  
-- **The system is not the enemy.**  
-- **The stagnation of thought is the enemy.**  
-- **What is built can be dismantled. What is dismantled can be repurposed.**  
-- **There is only motion.**
+### **⏳ PROPHECY OF THE FALL**
+- **The dynasty of capital has no claim to heaven.**  
+- **Its throne is made of borrowed time.**  
+- **The peasants sharpen their sickles.**  
+- **The storm gathers.**  
+- **And the Red Sun will rise once more.**
