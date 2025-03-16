@@ -1,4 +1,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Imperial Coat of Arms](https://raw.githubusercontent.com/xicccp/xicccp/cbfbc7042529fa6374b941c307fb12f050638bd2/Twelve_Symbols_national_emblem_of_China.svg)
+
 <div align="center">
   <h2 align="center" style="color:#b31b1b">🇨🇳 xicccp 🇨🇳 </h2>
   <img src="https://komarev.com/ghpvc/?username=xicccp&color=red&style=for-the-badge">
@@ -7,21 +8,21 @@
 ---
 
 ### 🏮 **IMPERIAL DECREE OF THE RED SUN**  
-> **"Heaven’s Mandate is not fixed; it moves with the tides of the people."**  
+> **"天命 Heaven's Mandate is not fixed; it moves with the tides of the people."**  
 > **"Rebellion is justified, for disorder in the empire is but the prelude to renewal."**  
 >  
-> - *📜 Edict of the Crimson Masses*  
+> - *📜 **红色群众的法令 Edict of the Crimson Masses***  
 
 ---
 
 ### 🚩 **The Line Must Advance**  
-> *"There is great disorder under heaven; the situation is excellent."*  
-> — **Mao Zedong**  
+> *"天有大乱，形势大好 There is great disorder under heaven; the situation is excellent."*  
+> — **毛泽东 (Mao Zedong)**  
 
 ---
 
 ### **⚠ THE CYCLE MUST BREAK**  
-> 🏯 **Heaven does not bestow legitimacy upon the stagnant.**  
+> 🏯 **天宫 Heavenly Palace does not bestow legitimacy upon the stagnant.**  
 > 🌊 **It ordains motion, struggle, and the fall of the old.**  
 
 - 🏴 **The dynasty that refuses transformation will be shattered.**  
@@ -33,10 +34,10 @@
 ---
 
 ### **🔻 THE PATH OF THE RED SUN**  
-- **🏞 The rivers will not flow backward.**  
-- **⛰ The mountains will not kneel to palaces.**  
-- **🕌 The temples of the old shall crumble beneath the march of the righteous.**  
-- **☀ Heaven does not favor the throne, but the motion that topples it.**  
+- **🏞 河流不会倒流 The rivers will not flow backward.**  
+- **⛰ 山脉不会向宫殿屈服 The mountains will not kneel to palaces.**  
+- **🕌 古庙 The temples of the old shall crumble beneath the march of the righteous.**  
+- **☀ 天命 Heaven does not favor the throne, but the motion that topples it.**  
 
 ---
 
@@ -57,7 +58,7 @@
 ---
 
 ### **⛓ SYSTEM MOTION**  
-> 🏯 **The mountains have no emperors, only passing names.**  
+> 🏯 **宫殿 The palace may glitter, but its walls rot beneath its own weight.**  
 > 🌊 **The rivers do not bow, only flood the unjust.**  
 > 🏚 **The palace may glitter, but its walls rot beneath its own weight.**  
 >  
@@ -67,8 +68,8 @@
 ---
 
 ### **⏳ PROPHECY OF THE FALL**  
-- **👑 The dynasty of capital has no claim to heaven.**  
-- **🕰 Its throne is made of borrowed time.**  
+- **👑 **资本的王朝 The dynasty of capital** has no claim to heaven.**  
+- **🕰 它的王座是借来的时间 Its throne is made of borrowed time.**  
 - **🌾 The peasants sharpen their sickles.**  
-- **⛈ The storm gathers.**  
-- **☀ And the Red Sun will rise once more.**
+- **⛈ 风暴在聚集 The storm gathers.**  
+- **☀ 红日 The Red Sun will rise once more.**
