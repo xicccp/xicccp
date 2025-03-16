@@ -1,10 +1,8 @@
 <div align="center">
   <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <h2 align="center">Hi, I'm xicccp 👋</h2>
-  <h3><a href="https://your-link-here.com">Online Resume</a></h3>
   <img src="https://komarev.com/ghpvc/?username=xicccp&color=blue&style=for-the-badge"></img>
 </div>
-<br>
 
 Currently:
 - Student at FEUP - LEIC 
