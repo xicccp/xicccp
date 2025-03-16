@@ -1,6 +1,5 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Imperial Coat of Arms](https://raw.githubusercontent.com/xicccp/xicccp/cbfbc7042529fa6374b941c307fb12f050638bd2/Twelve_Symbols_national_emblem_of_China.svg)
 <div align="center">
-  ![Imperial Coat of Arms](https://github.com/xicccp/xicccp/blob/main/Twelve_Symbols_national_emblem_of_China.svg)
-
   <h2 align="center" style="color:#b31b1b">🇨🇳 xicccp 🇨🇳 </h2>
   <img src="https://komarev.com/ghpvc/?username=xicccp&color=red&style=for-the-badge">
 </div>
