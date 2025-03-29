@@ -42,8 +42,9 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xicccp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicccp&layout=compact&langs_count=7&theme=radical"/>   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xicccp&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xicccp&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xicccp&theme=radical" />
 </div>
 
 ---
