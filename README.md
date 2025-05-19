@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Mandate-Linux-gold?style=flat&logo=linux&logoColor=red">
   <img src="https://img.shields.io/badge/Weapons-Git-darkred?style=flat&logo=git&logoColor=gold">
-  <img src="https://img.shields.io/badge/Strategy-VsCode_black?style=flat&logo=vscode&logoColor=gold">
+  <img src="https://img.shields.io/badge/Strategy-VSCode-black?style=flat&logo=vscode&logoColor=gold">
 </p>
 
 ---
