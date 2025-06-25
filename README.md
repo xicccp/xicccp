@@ -62,7 +62,6 @@
 > 🏯 **宫殿 The palace may glitter, but its walls rot beneath its own weight.**  
 > 🌊 **The rivers do not bow, only flood the unjust.**  
 > 🏚 **The palace may glitter, but its walls rot beneath its own weight.**  
->  
 > ⚠ **The people do not serve the ruler. The ruler serves the people.**  
 > _When he forgets this, he is cast into the dust._  
 
