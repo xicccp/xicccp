@@ -42,8 +42,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xicccp&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicccp&layout=compact&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xicccp&show_icons=true&theme=radical&count_private=true&cache_seconds=60&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicccp&layout=compact&theme=radical&count_private=true&cache_seconds=60&v=2" />
 </div>
 
 
