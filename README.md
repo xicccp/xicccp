@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/xicccp/xicccp/fbeb88f284a4e39b73df95a9623b83d6a3e2b3f8/praise_the_sun.png" width="120" alt="Profile Emblem">
+
   
   <h2>👋 Hi, I'm Francisco Fernandes</h2>
   <p>
@@ -43,5 +44,7 @@
 ---
 
 <p align="center">
+  <sub>Link to profile picture: <a href="https://www.reddit.com/r/darksouls3/comments/sjuloi/iudex_gundyr_pixel_art_oc/">here</a></sub>
+  <br>
   <sub>Last updated: October 2025</sub>
 </p>
