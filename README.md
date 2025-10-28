@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xicccp/xicccp/cbfbc7042529fa6374b941c307fb12f050638bd2/Twelve_Symbols_national_emblem_of_China.svg" width="120" alt="Profile Emblem">
+  <img src="https://raw.githubusercontent.com/xicccp/xicccp/cbfbc7042529fa6374b941c307fb12f050638bd2/praise_the_sun.png" width="120" alt="Profile Emblem">
   
   <h2>👋 Hi, I'm Francisco Fernandes</h2>
   <p>
